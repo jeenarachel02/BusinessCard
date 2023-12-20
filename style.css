@@ -1,0 +1,56 @@
+body {
+    margin: 0; 
+    padding: 0; 
+  }
+  
+html {
+    font-family: 'Helvetica neue', Arial, 'sans serif';
+    font-size: 10px;
+    background-color: #ccc;
+  }
+
+h2,.info{
+    text-align: center;
+  }
+
+
+.image {
+    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.details{
+    width: 65%;
+    height: 50%;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.card 
+  {
+    width: 280px;
+    height: 350px;
+    margin: 5em auto;
+    color: aliceblue;
+    background-color: rgb(9, 6, 6);
+    border: 0.2em solid black;
+    border-radius: 1.5em;
+  }
+
+  p {
+    font-size: 14px;
+    margin: 0;
+}
+
+
